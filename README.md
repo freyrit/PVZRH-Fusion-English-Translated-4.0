@@ -6,7 +6,7 @@ This project builds upon the English translation created by the **Blooms Communi
 
 ## About
 
-This release updates the English-translated version of PVZRH Fusion to **version 4.0**, while maintaining the existing English translation and making the updated version available to the community.
+This release updates the English-translated version of PVZRH Fusion to **version 4.0**, while maintaining the existing English translation and making the updated version available to the community. Its still incomplete you might still find some Chinese Character Text in there.
 
 ## Credits
 
